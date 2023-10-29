@@ -1,8 +1,8 @@
 📝 TodoList 2.0, feito com Html, Css, JavaScript 👩🏿‍💻
 
-📚Segunda versao do meu projeto Todo List,com melhorias de confirmacoes de tarefas✔️ e design mais
-acertivo.Futuramente irei publicar uma nova versao 3.0,com novos padroes para a melhor performace para
-o usuario
+📚Segunda versão do meu projeto Todo List,com melhorias de confirmações de tarefas✔️ e design mais
+acertivo.Futuramente irei publicar uma nova versão 3.0,com novos padroes para a melhor performance para
+o usuário.
 
-⚠️Todos os meus repositorios sao desenvolvidos por mim, e nao copiado de tutoriais do YouTube.
-No github so posto conteudos feitos por mim atraves dos meus estudos 📖
+⚠️Todos os meus repositórios sao desenvolvidos por mim, e não copiado de tutoriais do YouTube.
+No github so posto conteúdos feitos por mim através dos meus estudos 📖
